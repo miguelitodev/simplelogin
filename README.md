@@ -54,6 +54,10 @@ The following tools were used in this project:
 
 Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) and [Node](https://nodejs.org/en/) installed.
 
+## :thinking: In Insomnia
+
+Download the file of routes here: <a href="./assets/SimpleLogin.json" download>Link</a>
+
 ## :checkered_flag: Starting
 
 ```bash
